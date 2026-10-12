@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-artifact
+.vercel
+*.local
+.DS_Store
+# choir documents are usually copyrighted songs: keep them out of the repo
+*.docx
+*.doc
